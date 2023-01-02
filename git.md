@@ -32,3 +32,8 @@
   - Start feature 4
   - Feature 4
   - End feature 4
+
+### Feature 4b
+  - Start feature 4b
+  - Feature 4b
+  - End feature 4b
