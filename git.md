@@ -5,6 +5,7 @@
   - Dev 3
   - End dev
   - Hotfix
+  - Conflict 4
 
 ### Feature 1
   - Start feature 1
@@ -20,3 +21,8 @@
   - Start feature 3
   - Feature 3
   - End feature 3
+
+### Feature 4
+  - Start feature 4
+  - Feature 4
+  - End feature 4
