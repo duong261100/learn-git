@@ -3,6 +3,7 @@
   - Dev 1
   - Dev 2
   - End dev
+  - Hotfix
 
 ### Feature 1
   - Start feature 1
