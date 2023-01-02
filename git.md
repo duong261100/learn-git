@@ -8,3 +8,8 @@
   - Start feature 1
   - Feature 1
   - End feature 1
+
+### Feature 2
+  - Start feature 2
+  - Feature 2
+  - End feature 2
