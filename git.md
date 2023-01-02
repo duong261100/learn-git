@@ -8,6 +8,7 @@
   - Conflict 4
   - Conflict 4
 
+  - Conflict 5
 ### Feature 1
   - Start feature 1
   - Feature 1
@@ -28,12 +29,7 @@
   - Feature 4
   - End feature 4
 
-### Feature 4
-  - Start feature 4
-  - Feature 4
-  - End feature 4
-
-### Feature 4b
-  - Start feature 4b
-  - Feature 4b
-  - End feature 4b
+### Feature 5
+  - Start feature 5
+  - Feature 5
+  - End feature 5
