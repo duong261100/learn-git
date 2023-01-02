@@ -14,3 +14,8 @@
   - Start feature 2
   - Feature 2
   - End feature 2
+
+### Feature 3
+  - Start feature 3
+  - Feature 3
+  - End feature 3
